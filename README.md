@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arshan Mukadam
 - 👀 I’m interested in machine learning and advancing my coding skills
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arshanpm@gmail.com 
 
 <!---
