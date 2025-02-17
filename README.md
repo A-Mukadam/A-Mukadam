@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arshan Mukadam
 - 👀 I’m interested in machine learning,cyber security, and advancing my coding skills
-- 🌱 I’m currently learning java,python, and HTML/CSS
+- 🌱 I’m currently learning Java,Python, and HTML/CSS
 - 📫 How to reach me: arshanpm@gmail.com 
 
 <!---
